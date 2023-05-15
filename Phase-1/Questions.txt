@@ -20,3 +20,15 @@
 17. Writing a program in Java to create, read, update, and delete operations on the files in Java.
 18. Write a program in Java to demonstrate the uses of classes, objects, and the object-oriented pillars in Java
 19. Write a program in Java to resolve the diamond problem using OOPs’ concepts
+
+20. Blank - Nothing added.
+
+21. Write a program in Java to right rotate an array by 5 steps
+22. Write a program in Java to find the fourth smallest element in an unsorted list
+23. Write a program in Java to find the sum of n number of elements in the range of L and R where 0 <= L <= R <= n-1
+24. Write a program in Java to multiply two matrices
+25. Write a program in Java to delete the first occurrence of a key in a singly linked list
+26. Write a program in Java to insert a new element in a sorted circular linked list
+27. Write a program in Java to traverse a doubly linked list in the forward and backward directions
+28. Write a program in Java to insert and remove elements in a stack
+29. Write a program in Java to insert and remove elements in a queue
