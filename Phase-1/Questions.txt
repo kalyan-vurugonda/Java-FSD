@@ -32,3 +32,14 @@
 27. Write a program in Java to traverse a doubly linked list in the forward and backward directions
 28. Write a program in Java to insert and remove elements in a stack
 29. Write a program in Java to insert and remove elements in a queue
+
+30. Blank - Nothing added.
+
+31. Writing a program in Java implementing the linear search algorithm
+32. Writing a program in Java implementing the binary search algorithm
+33. Writing a program in Java implementing the exponential search algorithm
+34. Writing a program in Java implementing the selection sort algorithm
+35. Writing a program in Java implementing the bubble sort algorithm
+36. Writing a program in Java implementing the insertion sort algorithm
+37. Writing a program in Java implementing the merge sort algorithm
+38. Writing a program in Java implementing the quick sort algorithm
