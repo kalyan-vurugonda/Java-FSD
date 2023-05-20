@@ -1,0 +1,7 @@
+## Phase-1 Practice Project
+
+1. Creating an Arithmetic Calculator.
+2. Validation of an Email ID.
+3. File Handling.
+4. Longest Increasing Subsequence.
+5. Fix Bugs of the Application.
