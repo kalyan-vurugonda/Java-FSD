@@ -1,0 +1,45 @@
+## Phase-1 Practice Project: Assisted Practice
+
+1. Writing a program in Java to implement implicit and explicit type casting
+2. Writing a program in Java to implement access modifiers
+3. Writing a program in Java to verify implementations of methods and ways of calling a method  
+4. Writing a program in Java to verify the implementations of constructor types
+5. Writing a program in Java to verify implementations of collections
+6. Writing a program in Java to verify implementations of maps
+7. Writing a program in Java to verify the implementation of inner classes
+8. Write a program to create strings and display the conversion of string to StringBuffer and StringBuilder.
+9. Writing a program in Java to verify implementation of arrays
+10. Writing a program in Java to verify implementations of regular expressions
+
+11. Write a program in Java to create a thread by extending the ‘Thread’ class and by implementing the “Runnable” interface
+12. Write a program in Java to demonstrate sleep() and wait()
+13. Write a program in Java to demonstrate synchronization
+14. Write a program in Java to demonstrate try and catch
+15. Writing a program in Java to throws, throw, finally, and custom exceptions in Java.
+16. Write a program in Java to demonstrate exception handling
+17. Writing a program in Java to create, read, update, and delete operations on the files in Java.
+18. Write a program in Java to demonstrate the uses of classes, objects, and the object-oriented pillars in Java
+19. Write a program in Java to resolve the diamond problem using OOPs’ concepts
+
+20. Blank - Nothing added.
+
+21. Write a program in Java to right rotate an array by 5 steps
+22. Write a program in Java to find the fourth smallest element in an unsorted list
+23. Write a program in Java to find the sum of n number of elements in the range of L and R where 0 <= L <= R <= n-1
+24. Write a program in Java to multiply two matrices
+25. Write a program in Java to delete the first occurrence of a key in a singly linked list
+26. Write a program in Java to insert a new element in a sorted circular linked list
+27. Write a program in Java to traverse a doubly linked list in the forward and backward directions
+28. Write a program in Java to insert and remove elements in a stack
+29. Write a program in Java to insert and remove elements in a queue
+
+30. Blank - Nothing added.
+
+31. Writing a program in Java implementing the linear search algorithm
+32. Writing a program in Java implementing the binary search algorithm
+33. Writing a program in Java implementing the exponential search algorithm
+34. Writing a program in Java implementing the selection sort algorithm
+35. Writing a program in Java implementing the bubble sort algorithm
+36. Writing a program in Java implementing the insertion sort algorithm
+37. Writing a program in Java implementing the merge sort algorithm
+38. Writing a program in Java implementing the quick sort algorithm
