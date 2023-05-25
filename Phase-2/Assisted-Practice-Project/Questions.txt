@@ -10,3 +10,10 @@
 8. Write a program to demonstrate Session Tracking using Hidden Form Fields.
 9. Write a program to demonstrate Session Tracking using an HTTP Session.
 10. Write a program to demonstrate Session Login and Logout.
+
+11. Demonstrate a project to set up JDBC environment.
+12. Demonstrate a project to set up JDBC environment.(Unassisted Practice)
+13. Demonstrate Connection, Statement, and ResultSet in JDBC.
+14. Demonstrate stored procedures and exception handling in JDBC.
+15. Demonstrate how to create, select, and drop a database in JDBC.
+16. Demonstrate Insertion, Updation, and Deletion of Database Records using JDBC.
