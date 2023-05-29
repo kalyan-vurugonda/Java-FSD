@@ -17,3 +17,14 @@
 14. Demonstrate stored procedures and exception handling in JDBC.
 15. Demonstrate how to create, select, and drop a database in JDBC.
 16. Demonstrate Insertion, Updation, and Deletion of Database Records using JDBC.
+
+17, 18, 19, 20 - Blank - Nothing added.
+
+21. Configure Hibernate in Eclipse IDE.
+22. Configure Hibernate using XML in Eclipse IDE.
+23. Configure Hibernate using Annotations in Eclipse IDE.
+24. Demonstrate Hibernate logging by Log4j.
+25. Demonstrate mapping List, Set, Bag, and Map in collection using XML file.
+26. Demonstrate lazy collection in Hibernate.
+27. Demonstrate component mapping in Hibernate.
+28. Demonstrate integration of Hibernate with spring.
