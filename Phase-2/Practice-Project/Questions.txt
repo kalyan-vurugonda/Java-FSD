@@ -2,3 +2,4 @@
 
 1. Validation of the User Login.
 2. Retrieving the Product Details Using the Product ID.
+3. Adding a New Product in the Database
