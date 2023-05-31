@@ -28,3 +28,11 @@
 26. Demonstrate lazy collection in Hibernate.
 27. Demonstrate component mapping in Hibernate.
 28. Demonstrate integration of Hibernate with spring.
+
+29, 30 - Blank - Nothing added.
+
+31. Write a program to configure JSP with Eclipse and Creating a Simple JSP Page.
+32. Write a program to demonstrate the function of JSP Implicit Objects.
+33. Write a program to demonstrate the use of JSP Directives.
+34. Write a program to demonstrate the use of JSP action tags.
+35. Write a program to demonstrate session handling in JSP.
