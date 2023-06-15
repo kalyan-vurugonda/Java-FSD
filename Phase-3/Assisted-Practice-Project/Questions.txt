@@ -8,3 +8,13 @@
 5. Create a project to Consume a RESTful web service
 6. Create a project to upload and download a file in Spring Boot.
 7. Create a project to enable HTTPS and display in browser.
+
+8, 9, 10. Blank - Nothing added.
+
+11. Write a program to demonstrate standard tests.
+12. Write a program to demonstrate assertions.
+13. Write a program to demonstrate conditional test executions.
+14. Write a program to demonstrate nested and repeated tests
+15. Write a program to demonstrate dynamic tests.
+16. Write a program to demonstrate a dependency injection.
+17. You are given a project to demonstrate RESTful with Spring Boot.
