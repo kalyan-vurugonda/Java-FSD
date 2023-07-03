@@ -4,3 +4,8 @@
 2. Develop a Static Web Page.
 3. Create a form using Bootstrap.
 4. Navigation and Pagination.
+
+5. Functions and Prototyping.
+6. Working with Functions.
+7. IIFEs, Callbacks, and Closures.
+8. Maps and Classes.
