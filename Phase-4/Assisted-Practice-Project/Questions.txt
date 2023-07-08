@@ -9,3 +9,15 @@
 6. Working with Functions.
 7. IIFEs, Callbacks, and Closures.
 8. Maps and Classes.
+
+9, 10. Blank - Nothing added.
+
+11. Components.
+12. Property Binding.
+13. Class and Style Bindings.
+14. Event Binding.
+15. Two-way Binding.
+16. Form Validations.
+17. Directives.
+18. Pipes.
+19. Routing Mechanisms.
