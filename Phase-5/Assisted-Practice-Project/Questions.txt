@@ -1,1 +1,16 @@
 ## Phase-5 Practice Project: Assisted Practice
+
+1. WebDriver Installation and Integration in Eclipse.
+2. Locating Web Page Elements.
+3. Locating Elements through CSS and XPath.
+4. Handling Various Web Elements.
+5. Working with External Elements.
+6. Screenshots
+7. Handling File Uploads.
+8. Perform All Test Annotations.
+9. Group Test Cases and Parallel Test Execution.
+10. Evaluating Test Cases.
+11. Selenium Integration with Jenkins.
+12. Set Up Selenium Grid.
+13. Grid Configuration Using JSON.
+14. Running Tests on Selenium Grid.
