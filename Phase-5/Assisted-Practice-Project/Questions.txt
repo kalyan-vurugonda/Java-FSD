@@ -14,3 +14,24 @@
 12. Set Up Selenium Grid.
 13. Grid Configuration Using JSON.
 14. Running Tests on Selenium Grid.
+
+15-20. Blank - Nothing added.
+
+21. Launch and Connect to an EC2 Linux Instance.
+22. Change the Volume Size of an Instance.
+23. Launch an Instance in a Placement Group.
+24. Create an EBS Volume.
+25. Format and Mount an EBS Volume.
+26. Detach an EBS Volume.
+27. Delete an EBS Volume.
+28. Create an EBS Snapshot.
+29. View snapshot.
+30. Initialize a Volume Restored from a Snapshot on Linux.
+31. Create a Bucket.
+32. Delete an S3 Bucket.
+33. Set the Storage Class of an Object.
+34. Create an IAM User.
+35. Create an IAM Role.
+36. Create an IAM Group.
+37. Policies and Permissions.
+38. Empty an S3 Bucket.
