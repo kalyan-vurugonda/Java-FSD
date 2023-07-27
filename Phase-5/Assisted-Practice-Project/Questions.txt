@@ -35,3 +35,12 @@
 36. Create an IAM Group.
 37. Policies and Permissions.
 38. Empty an S3 Bucket.
+
+39, 40. Blank - Nothing added.
+
+41. Build a Custom Docker Image.
+42. Push an Image to Docker Hub.
+43. Container Deployment Using Docker Swarm.
+44. Container Scaling with Docker Swarm.
+45. Distribute Your App Across a Swarm Cluster.
+46. Setting up a Jenkins Pipeline.
