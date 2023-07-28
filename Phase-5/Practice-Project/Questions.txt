@@ -4,3 +4,4 @@
 2. Automate the Web Application - TestNG.
 3. Deploy Application on Cloud.
 4. Setting Up Jenkins Pipeline to Deploy Docker Swarm.
+5. Deploying ELK Stack on Docker Container.
