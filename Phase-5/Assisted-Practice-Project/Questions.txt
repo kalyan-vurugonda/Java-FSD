@@ -44,3 +44,8 @@
 44. Container Scaling with Docker Swarm.
 45. Distribute Your App Across a Swarm Cluster.
 46. Setting up a Jenkins Pipeline.
+
+47. Install Kubernetes.
+48. Install Kubernetes on Cloud.
+49. Web Hosting.
+50. Deploying Your Application.
